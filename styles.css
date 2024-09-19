@@ -14,7 +14,7 @@ body {
 }
 
 .calculator {
-  padding: 10px;
+  padding: 0.6rem;
   background-color: rgb(218, 200, 168);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -25,23 +25,23 @@ body {
 }
 
 .screen {
-  padding: 10px;
-  margin-bottom: 10px;
+  padding: 0.6rem;
+  margin-bottom: 0.6rem;
   background-color: beige;
   grid-column: 1/5;
   font-family: monospace;
   font-weight: 600;
-  font-size: 30px;
+  font-size: 1.9rem;
   text-align: right;
   border-radius: 5px;
   overflow: hidden;
 }
 
 .btn {
-  padding: 10px 5px;
+  padding: 0.6rem 0.3rem;
   background-color: cadetblue;
   color: wheat;
-  font-size: 20px;
+  font-size: 1.25rem;
   border: 0;
   border-radius: 5px;
   cursor: pointer;
