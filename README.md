@@ -21,7 +21,7 @@ A **simple, web-based calculator** built with **HTML, CSS, and JavaScript**. Thi
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/matifelitti/https://github.com/matifelitti/Calculator.git
+   git clone https://github.com/matifelitti/Calculator.git
    cd Calculator
    ```
 2. **Open the Project**
